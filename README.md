@@ -1,4 +1,4 @@
-# Heart-Disease-Detection-Decision-Tree-Classifier
+# Heart Disease Detection with Decision Tree Classifier
 Decision Tree Algorithm for heart disease classification.
 Decision Trees are a supervised learning method used for classification and regression. 
 - We create a model that predicts the value of a target variable by learning simple decision rules inferred from the data features. 
